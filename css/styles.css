@@ -1,0 +1,35 @@
+img {
+	border-radius: 50px;
+	width: 150px;
+	padding: none;
+}
+body {
+	background-color: #FFE8D6;
+}
+hr{
+	border-top-style: dotted;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-width: 10%;
+	border-color: transparent;
+}
+p{
+	color:#B21F66;
+	
+}
+ 
+ h1{
+ 	font-style: italic;
+
+ }
+
+fieldset{
+	width: 300px;
+	
+}
+/************ ID SELECTOR *******************/
+
+ p #first-para{
+ 	text-align: center;
+ }
